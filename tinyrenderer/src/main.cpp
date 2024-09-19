@@ -7,6 +7,8 @@
 #include "utilities/MalinMath.h"
 #include "geometry/shape.h"
 #include "model.h"
+#include <stdexcept>
+#include <limits>
 
 
 //#include "utilities/format.h"
@@ -205,9 +207,9 @@ void Malin_Render() {
     int height = 1000;
     TGAImage image(width, height, TGAImage::RGB);
     Triangle triangle;
-    Model african("./resource/obj/african_head.obj");
+    Model african("tinyrenderer/tinyrender/resource/obj/african_head.obj");
     TGAImage texture;
-    texture.read_tga_file("./resource/obj/african_head_diffuse.tga");
+    texture.read_tga_file("tinyrenderer/tinyrender/resource/obj/african_head_diffuse.tga");
     texture.flip_vertically();
 
     
