@@ -1,0 +1,154 @@
+﻿  main.cpp
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(10,1): warning C4305: “+=”: 从“double”到“float”截断
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(11,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(12,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(19,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(37,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(93,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(128,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(152,65): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(152,41): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(153,63): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(153,39): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(174,27): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(177,37): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(177,32): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(194,65): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(194,41): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(195,63): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(195,39): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(218,27): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(221,37): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(221,32): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(237,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(238,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(250,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(251,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(271,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(272,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(283,81): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(283,58): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(283,35): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(283,153): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(283,130): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(283,107): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(314,56): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\src\geometry\shape.h(314,21): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+  model.cpp
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+imgui_impl_glfw.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  tinyrenderer.vcxproj -> E:\Desktop\makeit\CG\project\软渲染器\tinyrenderer\tinyrenderer\bin-Debug\tinyrenderer.exe
